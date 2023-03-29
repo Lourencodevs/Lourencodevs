@@ -6,7 +6,7 @@
 ![Lourenco GitHub stats](https://github-readme-stats.vercel.app/api?username=Lourencodevs&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lourencodevs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Tecnologias que eu uso no meu dia
+## Tecnologias que eu uso no meu dia a dia
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
